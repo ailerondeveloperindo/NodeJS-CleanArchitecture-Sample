@@ -1,4 +1,4 @@
-# NodeJS-CleanArchitecture-Sample
+# NodeJS-DDD
 Restful API with DDD Approach.
 
 Created for Learning Purpose
